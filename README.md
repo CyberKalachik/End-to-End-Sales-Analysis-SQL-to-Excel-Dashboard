@@ -95,13 +95,13 @@ ________________________________________
 ## 📊 Key dashboards
 
 ### Revenue and Profit by Product Category
-![ Revenue and Profit by Product Category](Screenshots/Revenue_and_Profit_by_Product_Category.jpg)
+![Revenue_and_Profit_by_Product_Category](Screenshots/Revenue_and_Profit_by_Product_Category.jpg)
 
 ### Revenue and Profit Over Time
-![ Revenue and Profit Over Time](Screenshots/Revenue_and_Profit_Over_Time.jpg)
+![ Revenue_and_Profit_Over_Time](Screenshots/Revenue_and_Profit_Over_Time.jpg)
 
 ### Revenue by Age Group and Gender
-![ Revenue by Age Group and Gender](Screenshots/Revenue_by_Age_Group_and_Gender.jpg)
+![ Revenue_by_Age_Group_and_Gender](Screenshots/Revenue_by_Age_Group_and_Gender.jpg)
 
 ### Units Sold by Year and Profit by country and gender
-![ Units Sold by Year and Profit by country and gender](Screenshots/UnitsSold_by_Year_and_Profit_by_country.jpg)
+![ UnitsSold_by_Year_and_Profit_by_country](Screenshots/UnitsSold_by_Year_and_Profit_by_country.jpg)
